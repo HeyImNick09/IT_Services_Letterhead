@@ -29,13 +29,6 @@ This project was created as part of an assignment to design a professional compa
 
 You can view the website by visiting: [https://[your-github-username].github.io/it-services-letterhead/](https://[your-github-username].github.io/it-services-letterhead/)
 
-## Local Development
-
-To run this website locally:
-
-1. Clone the repository
-2. Open the `index.html` file in your web browser
-
 ## License
 
 This project is created for educational purposes only.
